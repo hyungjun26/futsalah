@@ -12,7 +12,7 @@
 
 <br>
 
-### 🏠 [Explore FutSalah](접속X)(http://i3a112.p.ssafy.io/)  or  :clapper: [Checkout Live Demo](https://youtu.be/vUVlKgexNk0)
+### 🏠 [Explore FutSalah(접속X)](http://i3a112.p.ssafy.io/)  or  :clapper: [Checkout Live Demo](https://youtu.be/vUVlKgexNk0)
 
 <br>
 
