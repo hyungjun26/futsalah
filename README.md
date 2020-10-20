@@ -8,11 +8,11 @@
   </a>
 </p>
 
-> SSAFY 3기 2학기 1반 12팀 - `I do Arduino` 의 프로젝트 저장소
+> `I do Arduino` 의 프로젝트 저장소
 
 <br>
 
-### 🏠 [Explore FutSalah(접속X)](http://i3a112.p.ssafy.io/)  or  :clapper: [Checkout Live Demo](https://youtu.be/vUVlKgexNk0)
+### :clapper: [Checkout Live Demo](https://youtu.be/vUVlKgexNk0)
 
 <br>
 
